@@ -29,7 +29,7 @@ class _HomeShellState extends State<HomeShell> {
         destinations: const [
           NavigationDestination(
             icon: Icon(Icons.play_circle),
-            label: 'Prédicas',
+            label: 'Academia de Gracia',
           ),
           NavigationDestination(
             icon: Icon(Icons.support_agent),

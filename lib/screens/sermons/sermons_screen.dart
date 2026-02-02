@@ -89,7 +89,7 @@ class _SermonsScreenState extends State<SermonsScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Prédicas'),
+        title: const Text('Academia de Gracia'),
         actions: [
           IconButton(onPressed: _load, icon: const Icon(Icons.refresh)),
         ],
